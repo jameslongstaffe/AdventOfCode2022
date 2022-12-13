@@ -1,7 +1,7 @@
 ﻿
 namespace Day4;
 
-public static class Rucksack
+public static class CampCleanup
 {
     public static int Part1()
     {
